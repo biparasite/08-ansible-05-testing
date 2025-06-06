@@ -44,7 +44,7 @@
 
 3.
 
-<details> <summary>ADD OS/summary>
+<details> <summary>ADD OS</summary>
 
 ![add OS](https://github.com/biparasite/08-ansible-05-testing/blob/main/run_test.png "add OS")
 
@@ -52,7 +52,7 @@
 
 4.
 
-<details> <summary>ADD assert/summary>
+<details> <summary>ADD assert</summary>
 
 ![add assert](https://github.com/biparasite/08-ansible-05-testing/blob/main/run_test1.png "add assert")
 
@@ -60,7 +60,7 @@
 
 5.
 
-<details> <summary>RErun test/summary>
+<details> <summary>RErun test</summary>
 
 ![RErun test](https://github.com/biparasite/08-ansible-05-testing/blob/main/rerun_test.png "RErun test")
 
